@@ -1,6 +1,6 @@
 ## Hi there! I am Areeb Khan👋 Welcome to my GitHub Profile
 
-I am a student at the **University of Oklahoma**, currently pursuing a **B.S. in Information Science and Technology**. I am passionate about **data analytics, database systems, and information retrieval**. With a strong academic background, I have maintained a **4.0 GPA** and actively work on projects related to **database management, web development, and analytics**.
+I am a student at the **University of Oklahoma**, currently pursuing a Bachelors defree in **Information Science and Technology**. I am passionate about **data analytics, database systems, and information retrieval**. With a strong academic background, I have actively work on projects related to **database management, web development, and analytics**.
 
 I have hands-on experience with **MySQL, R, and web technologies (HTML, CSS, JavaScript)**. My interests also extend to **sports analytics**, where I analyze data-driven insights to improve team performance.
 
