@@ -7,7 +7,7 @@ I have hands-on experience with **MySQL, R, and web technologies (HTML, CSS, Jav
 I am always eager to learn, collaborate, and work on innovative projects in **data science, information retrieval, and UX research**.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/areeb-khan-2b890a1b9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/areeb-khan-2b890a1b9/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://areebkhan3306.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AREEBKHAN3306)
 
