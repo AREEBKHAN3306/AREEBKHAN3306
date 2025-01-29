@@ -6,8 +6,13 @@ I have hands-on experience with **MySQL, R, and web technologies (HTML, CSS, Jav
 
 I am always eager to learn, collaborate, and work on innovative projects in **data science, information retrieval, and UX research**.
 
+### Connect with me:
+[![LinkedIn](www.linkedin.com/in/areeb-khan-2b890a1b9)
+[![Portfolio](https://areebkhan3306.github.io/Portfolio/)
+[![GitHub](https://github.com/AREEBKHAN3306)
+
 - 📬 How to reach me: **areebkhan3306@ou.edu**
-- 🎯 Fun fact: I have played Crocket on a national level.
+- 🎯 Fun fact: I have played Cricket on a national level.
 
 
 🚀 **Let’s connect and build something great together!**
